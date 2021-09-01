@@ -6,4 +6,4 @@ Blog practice Platzi
 * El flujo de trabajo en Github 
 * El verdadero amor por las buenas practicas 
 * Trucos muy locos del profesor 
-* 
+* Incluye ejemplo en windows linux y mac
