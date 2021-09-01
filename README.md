@@ -7,3 +7,4 @@ Blog practice Platzi
 * El verdadero amor por las buenas practicas 
 * Trucos muy locos del profesor 
 * Incluye ejemplo en windows linux y mac
+* Disponible para todas las edades
